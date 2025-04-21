@@ -109,15 +109,15 @@ A range of plots were used to understand behavior and trends:
 
 - **Line Plot**: shows monthly trend of Bill_1 to Bill_6.
 
-<img src="![alt text](image.png)" height="250"/>
+<img src="https://github.com/user-attachments/assets/b6a379ec-dc48-4520-9b80-72d696292d16" height="250"/>
 
 - **Box Plot**: Payment delays across months by defaulters and non-defaulters.
 
-<img src="![alt text](image-1.png)" height="250"/>
+<img src="https://github.com/user-attachments/assets/2b999056-c9e3-4bdf-80c5-de77e7c6882d" height="250"/>
 
 - **Heatmap**: Correlation between billing amounts and default.
 
-<img src="![alt text](image-2.png)" height="250"/>
+<img src="https://github.com/user-attachments/assets/7ddd14ef-3b40-4ef8-a670-c72a0a07241b" height="250"/>
 
 - **Bar Charts**: Monthly average delay per group and bill trends for defaulters.
 
